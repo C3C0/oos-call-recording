@@ -7,7 +7,7 @@ which was based on changing system-wide region to China, which resulted in quite
 Magisk module modifies only a necessary part of the system without changing current region.
 
 ## Requiremenets
-- Magisk v12.0 or later
+- Magisk v13 or later
 - Version of OxygenOS should match version of the module for the best experience
 
 ## What gets modified
@@ -21,6 +21,7 @@ The one and only modification is that isSupportCallRecorder() method of OPPhoneU
 - [GitHub](https://github.com/C3C0/oos-call-recording)
 
 ## Change log
+- 2017/07/11 -> migrated to template v4 (Magisk v13)
 - 2017/06/16 -> initial release compatible with OxygenOS 4.1.6
 
 ## Like it?
