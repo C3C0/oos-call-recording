@@ -1,7 +1,7 @@
 id=oos-call-recording
 name=OOS Call Recording Enabler
-version=4.1.6
-versionCode=3
+version=4.1.7
+versionCode=4
 author=C3C076
 description=Enables call recording in OxygenOS without changing region
 template=4

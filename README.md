@@ -21,6 +21,7 @@ The one and only modification is that isSupportCallRecorder() method of OPPhoneU
 - [GitHub](https://github.com/C3C0/oos-call-recording)
 
 ## Change log
+- 2017/08/30 -> updated for OxygenOS 4.1.7
 - 2017/07/11 -> migrated to template v4 (Magisk v13)
 - 2017/06/16 -> initial release compatible with OxygenOS 4.1.6
 
